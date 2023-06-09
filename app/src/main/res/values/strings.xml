@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">denem221</string>
+    <string-array name="currencies_array">
+        <item>Seçiniz</item>
+        <item>ABD DOLARI</item>
+        <item>EURO</item>
+        <item>İNGİLİZ STERLİNİ</item>
+        <item>JAPON YENİ</item>
+        <item>İSVİÇRE FRANGI</item>
+        <item>KANADA DOLARI</item>
+        <item>AVUSTRALYA DOLARI</item>
+        <item>DANİMARKA KRONU</item>
+        <item>NORVEÇ KRONU</item>
+        <item>İSVEÇ KRONU</item>
+        <item>KUVEYT DİNARI</item>
+        <item>SAUDİ ARABİSTAN RİYALİ</item>
+        <item>JAPON YENİ</item>
+        <item>BULGAR LEVASI</item>
+        <item>RUMEN LEYİ</item>
+        <item>RUS RUBLESİ</item>
+        <item>İRAN RİYALİ</item>
+        <item>ÇİN YUANI</item>
+        <item>PAKİSTAN RUPİSİ</item>
+    </string-array>
+
+</resources>
